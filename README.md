@@ -31,7 +31,7 @@ Developed a neural network from the ground up using Python and NumPy, implementi
 
 ---
 
-## :plant: Currently Learning
+## :potted_plant: Currently Learning
 - Compiler design in Go
 - Advanced algorithms and data structures
 - AI & machine learning techniques
