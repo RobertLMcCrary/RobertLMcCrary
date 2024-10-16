@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at Kennesaw State University, passionate about software development, machine learning, and building innovative projects. I love coding in multiple languages and enjoy contributing to both academic and personal projects.
 
-## 🚀 Skills
+## :rocket: Skills
 
 **Languages:**
 - Java, Python, C\#, C++, SQL, JavaScript, TypeScript, Go
@@ -18,7 +18,7 @@ I'm a Computer Science student at Kennesaw State University, passionate about so
 
 ---
 
-## 💻 Projects
+## :computer: Projects
 
 ### [Bagel VS Donut (Python, PyTorch, Numpy)](https://github.com/RobertLMcCrary)
 A robust convolutional neural network (CNN) designed to differentiate between bagels and donuts. Implemented transfer learning to reduce training time by 30 hours and optimized the network to achieve high accuracy on validation sets.
@@ -31,14 +31,14 @@ Developed a neural network from the ground up using Python and NumPy, implementi
 
 ---
 
-## 🌱 Currently Learning
+## :plant: Currently Learning
 - Compiler design in Go
 - Advanced algorithms and data structures
 - AI & machine learning techniques
 
 ---
 
-## 📫 Let's Connect
+## :mailbox_with_mail: Let's Connect
 - Email: [rlmccrary1210@gmail.com](mailto:rlmccrary1210@gmail.com)
 - LinkedIn: [linkedin.com/in/robertlmccrary](https://www.linkedin.com/in/robertlmccrary)
 - GitHub: [github.com/RobertLMcCrary](https://github.com/RobertLMcCrary)
