@@ -1,4 +1,4 @@
-# Hi, I'm Robert McCrary! 👋
+# Hi, I'm Robert McCrary! :wave:
 
 I'm a Computer Science student at Kennesaw State University, passionate about software development, machine learning, and building innovative projects. I love coding in multiple languages and enjoy contributing to both academic and personal projects.
 
