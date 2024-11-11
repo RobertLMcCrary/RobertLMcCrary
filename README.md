@@ -16,18 +16,6 @@ I'm a Computer Science student at Kennesaw State University, passionate about so
 **Developer Tools:**
 - Neovim, Git, VS Code, Visual Studio, PyCharm, IntelliJ, Postman
 
----
-
-## :computer: Projects
-
-### [Bagel VS Donut (Python, PyTorch, Numpy)](https://github.com/RobertLMcCrary)
-A robust convolutional neural network (CNN) designed to differentiate between bagels and donuts. Implemented transfer learning to reduce training time by 30 hours and optimized the network to achieve high accuracy on validation sets.
-
-### [Compiler From Scratch (Go)](https://github.com/RobertLMcCrary)
-Built a compiler in Go, converting raw source code into tokens using a lexer, parsing them into an Abstract Syntax Tree (AST), and generating optimized machine code through an intermediate representation (IR).
-
-### [Neural Network From Scratch (Python, Numpy)](https://github.com/RobertLMcCrary)
-Developed a neural network from the ground up using Python and NumPy, implementing forward and backward propagation to achieve over 95% accuracy on validation datasets.
 
 ---
 
